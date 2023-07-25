@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3-WebUI/issues"
   },
-  "homepage": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3-WebUI#readme"
+  "homepage": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3-WebUI#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
 }
